@@ -195,7 +195,7 @@ public class EgovSampleController {
 	}
 
 	/**
-	 * 글을 삭제한다.ddc
+	 * 글을 삭제한다.ddca
 	 * @param sampleVO - 삭제할 정보가 담긴 VO
 	 * @param searchVO - 목록 조회조건 정보가 담긴 VO
 	 * @param status
